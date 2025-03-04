@@ -1,5 +1,5 @@
 <?php
 //tahap 2
-$day = 12;
+$day = 13;
 
 ?>
