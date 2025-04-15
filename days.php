@@ -1,5 +1,5 @@
 <?php
 //tahap 3
-$day =21
+$day =22
 
 ?>
