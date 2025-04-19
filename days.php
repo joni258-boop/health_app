@@ -1,5 +1,6 @@
 <?php
-//tahap 3
-$day =25
+
+sekarang hari pa?
+  sabtu
 
 ?>
