@@ -1,6 +1,6 @@
 <?php
 
 sekarang hari pa?
-  rabu
+  kamis
 
 ?>
