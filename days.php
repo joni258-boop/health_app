@@ -1,6 +1,6 @@
 <?php
 
 sekarang hari pa?
-  jumat
+  minggu
 
 ?>
